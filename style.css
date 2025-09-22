@@ -1,0 +1,22 @@
+.card {
+ width: 600px;   /*lebar card */
+ left: 20%; /* memberi jarak dari kiri */
+ top: 15px; /*menjaga jarak kebawah */
+}
+thead {
+    border-radius: 20px; /* Sudut melengkung pada seluruh thead */
+    background-color:#45103E;
+    color: white;
+    
+}
+img{
+    width: 100%;
+} 
+.btn-primary {
+    display: inline-block;
+    visibility: visible;
+    opacity: 1;
+}
+.bg-custom {
+    background-color: #45103E !important;
+}
